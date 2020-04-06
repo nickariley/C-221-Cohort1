@@ -31,3 +31,14 @@ C:\Users\Owner\Desktop\C#221-Cohort1\C#221-Projects\Many Methods\obj\Debug\netco
 C:\Users\Owner\Desktop\C#221-Cohort1\C#221-Projects\Many Methods\obj\Debug\netcoreapp3.1\Many Methods.AssemblyInfo.cs
 C:\Users\Owner\Desktop\C#221-Cohort1\C#221-Projects\Many Methods\obj\Debug\netcoreapp3.1\Many Methods.dll
 C:\Users\Owner\Desktop\C#221-Cohort1\C#221-Projects\Many Methods\obj\Debug\netcoreapp3.1\Many Methods.pdb
+C:\Users\Owner\Documents\GitHub\C-221-Cohort1\C#221-Projects\Many Methods\bin\Debug\netcoreapp3.1\Many Methods.exe
+C:\Users\Owner\Documents\GitHub\C-221-Cohort1\C#221-Projects\Many Methods\bin\Debug\netcoreapp3.1\Many Methods.deps.json
+C:\Users\Owner\Documents\GitHub\C-221-Cohort1\C#221-Projects\Many Methods\bin\Debug\netcoreapp3.1\Many Methods.runtimeconfig.json
+C:\Users\Owner\Documents\GitHub\C-221-Cohort1\C#221-Projects\Many Methods\bin\Debug\netcoreapp3.1\Many Methods.runtimeconfig.dev.json
+C:\Users\Owner\Documents\GitHub\C-221-Cohort1\C#221-Projects\Many Methods\bin\Debug\netcoreapp3.1\Many Methods.dll
+C:\Users\Owner\Documents\GitHub\C-221-Cohort1\C#221-Projects\Many Methods\bin\Debug\netcoreapp3.1\Many Methods.pdb
+C:\Users\Owner\Documents\GitHub\C-221-Cohort1\C#221-Projects\Many Methods\obj\Debug\netcoreapp3.1\Many Methods.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\C-221-Cohort1\C#221-Projects\Many Methods\obj\Debug\netcoreapp3.1\Many Methods.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\GitHub\C-221-Cohort1\C#221-Projects\Many Methods\obj\Debug\netcoreapp3.1\Many Methods.AssemblyInfo.cs
+C:\Users\Owner\Documents\GitHub\C-221-Cohort1\C#221-Projects\Many Methods\obj\Debug\netcoreapp3.1\Many Methods.dll
+C:\Users\Owner\Documents\GitHub\C-221-Cohort1\C#221-Projects\Many Methods\obj\Debug\netcoreapp3.1\Many Methods.pdb

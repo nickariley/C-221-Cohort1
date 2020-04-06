@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owner\\Desktop\\C#221-Cohort1\\C#221-Projects\\Many Methods\\Many Methods.csproj": {}
+    "C:\\Users\\Owner\\Documents\\GitHub\\C-221-Cohort1\\C#221-Projects\\Many Methods\\Many Methods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owner\\Desktop\\C#221-Cohort1\\C#221-Projects\\Many Methods\\Many Methods.csproj": {
+    "C:\\Users\\Owner\\Documents\\GitHub\\C-221-Cohort1\\C#221-Projects\\Many Methods\\Many Methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\Desktop\\C#221-Cohort1\\C#221-Projects\\Many Methods\\Many Methods.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\Documents\\GitHub\\C-221-Cohort1\\C#221-Projects\\Many Methods\\Many Methods.csproj",
         "projectName": "Many Methods",
-        "projectPath": "C:\\Users\\Owner\\Desktop\\C#221-Cohort1\\C#221-Projects\\Many Methods\\Many Methods.csproj",
+        "projectPath": "C:\\Users\\Owner\\Documents\\GitHub\\C-221-Cohort1\\C#221-Projects\\Many Methods\\Many Methods.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner\\Desktop\\C#221-Cohort1\\C#221-Projects\\Many Methods\\obj\\",
+        "outputPath": "C:\\Users\\Owner\\Documents\\GitHub\\C-221-Cohort1\\C#221-Projects\\Many Methods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
